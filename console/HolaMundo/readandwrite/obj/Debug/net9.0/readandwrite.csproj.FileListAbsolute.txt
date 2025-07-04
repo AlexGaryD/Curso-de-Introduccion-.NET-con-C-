@@ -1,0 +1,15 @@
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\console\HolaMundo\readandwrite\bin\Debug\net9.0\readandwrite.exe
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\console\HolaMundo\readandwrite\bin\Debug\net9.0\readandwrite.deps.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\console\HolaMundo\readandwrite\bin\Debug\net9.0\readandwrite.runtimeconfig.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\console\HolaMundo\readandwrite\bin\Debug\net9.0\readandwrite.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\console\HolaMundo\readandwrite\bin\Debug\net9.0\readandwrite.pdb
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\console\HolaMundo\readandwrite\obj\Debug\net9.0\readandwrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\console\HolaMundo\readandwrite\obj\Debug\net9.0\readandwrite.AssemblyInfoInputs.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\console\HolaMundo\readandwrite\obj\Debug\net9.0\readandwrite.AssemblyInfo.cs
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\console\HolaMundo\readandwrite\obj\Debug\net9.0\readandwrite.csproj.CoreCompileInputs.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\console\HolaMundo\readandwrite\obj\Debug\net9.0\readandwrite.sourcelink.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\console\HolaMundo\readandwrite\obj\Debug\net9.0\readandwrite.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\console\HolaMundo\readandwrite\obj\Debug\net9.0\refint\readandwrite.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\console\HolaMundo\readandwrite\obj\Debug\net9.0\readandwrite.pdb
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\console\HolaMundo\readandwrite\obj\Debug\net9.0\readandwrite.genruntimeconfig.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\console\HolaMundo\readandwrite\obj\Debug\net9.0\ref\readandwrite.dll
