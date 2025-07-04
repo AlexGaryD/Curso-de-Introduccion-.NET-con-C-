@@ -1,4 +1,5 @@
-﻿var nombre = "Alex"; // Variable de tipo string
+﻿//Variables y tipos de datos primitivos en C#
+var nombre = "Alex"; // Variable de tipo string
 string apellido = "Vera"; // Variable de tipo string
 var edad = 30; // Variable de tipo int
 int anioNacimiento = 1993; // Variable de tipo int
@@ -18,3 +19,7 @@ Console.WriteLine($"¿Eres estudiante? {esEstudiante}"); // Imprime si es estudi
 Console.WriteLine($"Tu altura es {altura} metros y pesas {peso} kg."); // Imprime la altura y el peso usando interpolación de cadenas 
 
 
+// Variables vs constantes en C# y cuándo usar cada una
+
+const string name = "Alex"; // Constante de tipo string
+//name = "Alex Vera"; // Esto no es válido, ya que name es una constante y no se puede reasignar
