@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\alxvc\\Platzi\\Programación con C# y .NET\\Curso de Introducción a .NET con C#\\Curso-de-Introduccion-.NET-con-C-\\console\\HolaMundo\\HolaMundo.csproj": {}
+    "C:\\Users\\alxvc\\Platzi\\Programación con C# y .NET\\Curso de Introducción a .NET con C#\\Curso-de-Introduccion-.NET-con-C-\\console\\HolaMundo\\HolaMundo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\alxvc\\Platzi\\Programación con C# y .NET\\Curso de Introducción a .NET con C#\\Curso-de-Introduccion-.NET-con-C-\\console\\HolaMundo\\HolaMundo.csproj": {
+    "C:\\Users\\alxvc\\Platzi\\Programación con C# y .NET\\Curso de Introducción a .NET con C#\\Curso-de-Introduccion-.NET-con-C-\\console\\HolaMundo\\HolaMundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\alxvc\\Platzi\\Programación con C# y .NET\\Curso de Introducción a .NET con C#\\Curso-de-Introduccion-.NET-con-C-\\console\\HolaMundo\\HolaMundo.csproj",
+        "projectUniqueName": "C:\\Users\\alxvc\\Platzi\\Programación con C# y .NET\\Curso de Introducción a .NET con C#\\Curso-de-Introduccion-.NET-con-C-\\console\\HolaMundo\\HolaMundo.csproj",
         "projectName": "HolaMundo",
-        "projectPath": "c:\\Users\\alxvc\\Platzi\\Programación con C# y .NET\\Curso de Introducción a .NET con C#\\Curso-de-Introduccion-.NET-con-C-\\console\\HolaMundo\\HolaMundo.csproj",
+        "projectPath": "C:\\Users\\alxvc\\Platzi\\Programación con C# y .NET\\Curso de Introducción a .NET con C#\\Curso-de-Introduccion-.NET-con-C-\\console\\HolaMundo\\HolaMundo.csproj",
         "packagesPath": "C:\\Users\\alxvc\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\alxvc\\Platzi\\Programación con C# y .NET\\Curso de Introducción a .NET con C#\\Curso-de-Introduccion-.NET-con-C-\\console\\HolaMundo\\obj\\",
+        "outputPath": "C:\\Users\\alxvc\\Platzi\\Programación con C# y .NET\\Curso de Introducción a .NET con C#\\Curso-de-Introduccion-.NET-con-C-\\console\\HolaMundo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
