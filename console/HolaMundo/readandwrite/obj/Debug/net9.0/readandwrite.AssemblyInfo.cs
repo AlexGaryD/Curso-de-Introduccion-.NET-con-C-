@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("readandwrite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5da3f4cf732f157fe2fd7fca72aac8ded114b27e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2f496742592405e435d59f5db939ecd1e22bc27")]
 [assembly: System.Reflection.AssemblyProductAttribute("readandwrite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("readandwrite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
