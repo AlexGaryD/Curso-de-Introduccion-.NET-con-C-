@@ -1,0 +1,15 @@
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Condiciones\obj\Debug\net9.0\Condiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Condiciones\obj\Debug\net9.0\Condiciones.AssemblyInfoInputs.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Condiciones\obj\Debug\net9.0\Condiciones.AssemblyInfo.cs
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Condiciones\obj\Debug\net9.0\Condiciones.csproj.CoreCompileInputs.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Condiciones\obj\Debug\net9.0\Condiciones.sourcelink.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Condiciones\bin\Debug\net9.0\Condiciones.exe
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Condiciones\bin\Debug\net9.0\Condiciones.deps.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Condiciones\bin\Debug\net9.0\Condiciones.runtimeconfig.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Condiciones\bin\Debug\net9.0\Condiciones.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Condiciones\bin\Debug\net9.0\Condiciones.pdb
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Condiciones\obj\Debug\net9.0\Condiciones.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Condiciones\obj\Debug\net9.0\refint\Condiciones.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Condiciones\obj\Debug\net9.0\Condiciones.pdb
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Condiciones\obj\Debug\net9.0\Condiciones.genruntimeconfig.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Condiciones\obj\Debug\net9.0\ref\Condiciones.dll
