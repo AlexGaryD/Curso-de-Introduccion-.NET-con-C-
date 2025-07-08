@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HolaMundo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Ciclos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1228705270230feb71a28411075c6258a32e767c")]
-[assembly: System.Reflection.AssemblyProductAttribute("HolaMundo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HolaMundo")]
+[assembly: System.Reflection.AssemblyProductAttribute("Ciclos")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Ciclos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
