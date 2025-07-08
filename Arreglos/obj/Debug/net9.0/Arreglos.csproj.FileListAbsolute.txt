@@ -1,0 +1,15 @@
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Arreglos\bin\Debug\net9.0\Arreglos.exe
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Arreglos\bin\Debug\net9.0\Arreglos.deps.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Arreglos\bin\Debug\net9.0\Arreglos.runtimeconfig.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Arreglos\bin\Debug\net9.0\Arreglos.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Arreglos\bin\Debug\net9.0\Arreglos.pdb
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Arreglos\obj\Debug\net9.0\Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Arreglos\obj\Debug\net9.0\Arreglos.AssemblyInfoInputs.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Arreglos\obj\Debug\net9.0\Arreglos.AssemblyInfo.cs
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Arreglos\obj\Debug\net9.0\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Arreglos\obj\Debug\net9.0\Arreglos.sourcelink.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Arreglos\obj\Debug\net9.0\Arreglos.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Arreglos\obj\Debug\net9.0\refint\Arreglos.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Arreglos\obj\Debug\net9.0\Arreglos.pdb
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Arreglos\obj\Debug\net9.0\Arreglos.genruntimeconfig.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Arreglos\obj\Debug\net9.0\ref\Arreglos.dll
