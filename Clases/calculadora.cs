@@ -339,11 +339,11 @@ namespace Operaciones
             return true;
         }
     }
-    
+
     // ============================================================================
     // CLASE AUXILIAR PARA ESTADÍSTICAS
     // ============================================================================
-    
+
     /// <summary>
     /// Clase que representa las estadísticas de uso de una calculadora
     /// </summary>
@@ -354,7 +354,7 @@ namespace Operaciones
         public int TotalOperaciones { get; set; }
         public TimeSpan TiempoDeUso { get; set; }
         public double OperacionesPorMinuto { get; set; }
-        
+
         public override string ToString()
         {
             return $"""
