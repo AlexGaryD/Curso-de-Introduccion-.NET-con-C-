@@ -1,0 +1,15 @@
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Interfaces\obj\Debug\net9.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Interfaces\obj\Debug\net9.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Interfaces\obj\Debug\net9.0\Interfaces.AssemblyInfo.cs
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Interfaces\obj\Debug\net9.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Interfaces\obj\Debug\net9.0\Interfaces.sourcelink.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Interfaces\bin\Debug\net9.0\Interfaces.exe
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Interfaces\bin\Debug\net9.0\Interfaces.deps.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Interfaces\bin\Debug\net9.0\Interfaces.runtimeconfig.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Interfaces\bin\Debug\net9.0\Interfaces.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Interfaces\bin\Debug\net9.0\Interfaces.pdb
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Interfaces\obj\Debug\net9.0\Interfaces.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Interfaces\obj\Debug\net9.0\refint\Interfaces.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Interfaces\obj\Debug\net9.0\Interfaces.pdb
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Interfaces\obj\Debug\net9.0\Interfaces.genruntimeconfig.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Interfaces\obj\Debug\net9.0\ref\Interfaces.dll
