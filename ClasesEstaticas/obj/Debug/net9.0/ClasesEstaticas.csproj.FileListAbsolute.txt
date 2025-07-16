@@ -1,0 +1,15 @@
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\ClasesEstaticas\bin\Debug\net9.0\ClasesEstaticas.exe
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\ClasesEstaticas\bin\Debug\net9.0\ClasesEstaticas.deps.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\ClasesEstaticas\bin\Debug\net9.0\ClasesEstaticas.runtimeconfig.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\ClasesEstaticas\bin\Debug\net9.0\ClasesEstaticas.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\ClasesEstaticas\bin\Debug\net9.0\ClasesEstaticas.pdb
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\ClasesEstaticas\obj\Debug\net9.0\ClasesEstaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\ClasesEstaticas\obj\Debug\net9.0\ClasesEstaticas.AssemblyInfoInputs.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\ClasesEstaticas\obj\Debug\net9.0\ClasesEstaticas.AssemblyInfo.cs
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\ClasesEstaticas\obj\Debug\net9.0\ClasesEstaticas.csproj.CoreCompileInputs.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\ClasesEstaticas\obj\Debug\net9.0\ClasesEstaticas.sourcelink.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\ClasesEstaticas\obj\Debug\net9.0\ClasesEstaticas.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\ClasesEstaticas\obj\Debug\net9.0\refint\ClasesEstaticas.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\ClasesEstaticas\obj\Debug\net9.0\ClasesEstaticas.pdb
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\ClasesEstaticas\obj\Debug\net9.0\ClasesEstaticas.genruntimeconfig.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\ClasesEstaticas\obj\Debug\net9.0\ref\ClasesEstaticas.dll
