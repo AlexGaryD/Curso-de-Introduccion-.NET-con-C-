@@ -6,7 +6,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Depuracion/bin/Debug/net8.0/Depuracion.dll",
+            "program": "${workspaceFolder}/Depuracion/bin/Debug/net9.0/Depuracion.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Depuracion",
             "stopAtEntry": false,

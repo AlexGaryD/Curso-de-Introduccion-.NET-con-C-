@@ -1,0 +1,15 @@
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Depuracion\bin\Debug\net9.0\Depuracion.exe
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Depuracion\bin\Debug\net9.0\Depuracion.deps.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Depuracion\bin\Debug\net9.0\Depuracion.runtimeconfig.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Depuracion\bin\Debug\net9.0\Depuracion.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Depuracion\bin\Debug\net9.0\Depuracion.pdb
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Depuracion\obj\Debug\net9.0\Depuracion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Depuracion\obj\Debug\net9.0\Depuracion.AssemblyInfoInputs.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Depuracion\obj\Debug\net9.0\Depuracion.AssemblyInfo.cs
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Depuracion\obj\Debug\net9.0\Depuracion.csproj.CoreCompileInputs.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Depuracion\obj\Debug\net9.0\Depuracion.sourcelink.json
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Depuracion\obj\Debug\net9.0\Depuracion.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Depuracion\obj\Debug\net9.0\refint\Depuracion.dll
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Depuracion\obj\Debug\net9.0\Depuracion.pdb
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Depuracion\obj\Debug\net9.0\Depuracion.genruntimeconfig.cache
+C:\Users\alxvc\Platzi\Programación con C# y .NET\Curso de Introducción a .NET con C#\Curso-de-Introduccion-.NET-con-C-\Depuracion\obj\Debug\net9.0\ref\Depuracion.dll
