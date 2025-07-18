@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kzt+q4NwDeY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alxvc\\Platzi\\Programación con C# y .NET\\Curso de Introducción a .NET con C#\\Curso-de-Introduccion-.NET-con-C-\\Nuget\\Nuget.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alxvc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
